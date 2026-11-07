@@ -1,0 +1,4 @@
+interface:
+  display_name: "对话标题规范"
+  short_description: "按上海创建日期统一对话标题，支持新对话命名、历史批量整理与状态核验"
+  default_prompt: "使用 $conversation-title-naming 按上海实际创建日期和对话内容命名，仅修改标题并核验其他状态不变。"
