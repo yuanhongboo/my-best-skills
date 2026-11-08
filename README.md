@@ -12,10 +12,10 @@
 
 ## 安装
 
-仓库为私有，需要使用有访问权限的 GitHub 账号克隆：
+克隆公开仓库：
 
 ```sh
-gh repo clone yuanhongboo/my-best-skills
+git clone https://github.com/yuanhongboo/my-best-skills.git
 cd my-best-skills
 ```
 
