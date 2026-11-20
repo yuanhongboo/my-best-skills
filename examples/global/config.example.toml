@@ -1,0 +1,3 @@
+# 将所需键合并进自己的配置，模型应在本机目录中可选。
+model = "gpt-6.2-sol"
+model_reasoning_effort = "max"
